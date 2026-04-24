@@ -1,4 +1,4 @@
-# NeetCode Solutions — @zaccesss
+# NeetCode Solutions - @zaccesss
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
@@ -6,7 +6,7 @@
 
 ## What is this?
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
 
 ---
 
@@ -62,10 +62,10 @@ Python For Beginners/python-hello-world/submission-0.py
 
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
 
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
+- **Auto-commit toggle** - enable or disable automatic commits on submission
+- **Status filter** - sync all submissions or accepted only
+- **Rename repository** - rename this repo or start fresh with a new one
+- **Bulk Sync** - push all past solutions at once (rate-limited)
 
 ---
 
