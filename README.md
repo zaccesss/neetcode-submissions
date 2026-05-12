@@ -1,10 +1,9 @@
 # NeetCode Solutions
-
 > **@zaccess** · Accepted submissions synced automatically from [NeetCode.io](https://neetcode.io)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-isaacadjei.me-000000?style=for-the-badge&logo=googlechrome&logoColor=06ffa5)](https://isaacadjei.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Adjei-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacadjei)
-[![Email](https://img.shields.io/badge/Email-Contact-ff6f61?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@zacess.com)
+[![Email](https://img.shields.io/badge/Email-Contact-ff6f61?style=for-the-badge&logo=gmail&logoColor=white)](mailto:code@isaacadjei.me)
 [![NeetCode](https://img.shields.io/badge/NeetCode-zaccess-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neetcode.io/profile/zaccess)
 
 ---
@@ -53,7 +52,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="28"/> | TypeScript | `.ts` |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="28"/> | Rust | `.rs` |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="28"/> | Go | `.go` |
-| | SQL | `.sql` |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> | SQL | `.sql` |
 
 ---
 
@@ -77,7 +76,7 @@ Managed at [neetcode.io/profile/github](https://neetcode.io/profile/github).
 
 ---
 
-Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
+Made with 💻 by [Isaac Adjei](https://isaacadjei.me)
 
 [![isaacadjei.me](https://img.shields.io/badge/isaacadjei.me-000000?style=for-the-badge)](https://isaacadjei.me)
 [![zacess.com](https://img.shields.io/badge/zacess.com-000000?style=for-the-badge)](https://zacess.com)
